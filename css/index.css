@@ -1,0 +1,13 @@
+body {
+    max-width:970px;
+    margin:0 auto;
+}
+nav {
+    float:left;
+    width: 20px;
+    background-color:blue;
+}
+section {
+    margin-left:200px;
+}
+    
